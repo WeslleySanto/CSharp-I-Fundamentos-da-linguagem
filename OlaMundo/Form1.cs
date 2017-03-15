@@ -24,8 +24,7 @@ namespace OlaMundo
 
         private void button2_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Oi");
-            MessageBox.Show("Tudo bem?");
+            MessageBox.Show("Oi, Tudo bem?");
         }
     }
 }
